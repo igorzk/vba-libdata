@@ -1,0 +1,8 @@
+{
+    "nome": "libdata",
+    "versao": "0.1.0",
+    "descricao": "funcoes vba diversas para facilitar manipulacao de datas",
+    "planilha": "exemplo",
+    "autor": "igorzk",
+    "licenca": "ISC"
+}
